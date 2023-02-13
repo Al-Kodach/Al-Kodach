@@ -1,4 +1,4 @@
-Hi, my name is Ali, I will love to be call Ali-kodach
+Hi, my name is Ali, I will love to be call Ali-kodach.
 Kodachi is my favorite Linux distro,
 I'm a passtionate frontend developer, enjoy learning new skills and finding my way into software engineer.
 I grew up from a community without electricity and I have to make my way over 5miles to get to the cafy to enjoy the internet and software applications.
