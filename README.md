@@ -1,6 +1,6 @@
-Hi, my name is Ali, I will love to be call Ali-kodach.
-Kodachi is my favorite Linux distro,
-I'm a passtionate frontend developer, enjoy learning new skills and finding my way into software engineer.
-I grew up from a community without electricity and I have to make my way over 5miles to get to the cafy to enjoy the internet and software applications.
-Fun fact about me is I'm super Loyal,
+Hi, my name is Alidu Ali,
+I'm a passtionate frontend developer, enjoy learning new skills and currently exployring my way to be coming a software engineer in 2023.
+I grew up from a community without electricity and I have to go a long distance to enjoy the internet.
+Fun fact about me is I love linux.
+One word to discribe is I'm super loyal.
 I like to connect with new people and down for collaboration.
